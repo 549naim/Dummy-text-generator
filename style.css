@@ -1,0 +1,20 @@
+.main-head{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(69, 79, 121);
+}
+.selection-part{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.input{
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-left: 20px;
+}
+.input-value{
+   display: block
+}
